@@ -13,6 +13,7 @@ Användarhandledning
 2.2 Körning
 
     Navigera via terminalen till sökväg/till/Balobas/,kör sedan
-    ruby balobas.rb filnamn.bal utfilsnamn.html. Eftersom Ruby krävs vid körning så går det även bra att köra via Ruby’s interaktiva miljö, irb.
+    ruby balobas.rb filnamn.bal utfilsnamn.html. 
 
-För att inspektera hemsidan som nu precis skapats med hjälp utav Balobas kör man htmlfilen som genererats i en webbläsare.
+För att inspektera hemsidan som nu precis skapats med hjälp utav Balobas,
+kör htmlfilen som genererats i en webbläsare.
